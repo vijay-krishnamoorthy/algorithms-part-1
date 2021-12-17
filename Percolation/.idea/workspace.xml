@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51f291be-4883-4c07-b927-aa2edb61dfd8" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="229jUtJG98sIFaqOafYRJWmGgFT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../algs4.jar" />
+  </component>
+  <component name="RunManager" selected="Application.PercolationStats (4)">
+    <configuration name="Arguments" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="PercolationVisualizer" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="$Prompt$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PercolationStats (1)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PercolationStats" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="$Prompt$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PercolationStats (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PercolationStats" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="$Prompt$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PercolationStats (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PercolationStats" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="200 100" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PercolationStats (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PercolationStats" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="200 100" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PercolationStats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PercolationStats" />
+      <module name="Algorithms, Part I" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PercolationVisualizer" type="Application" factoryName="Application" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PercolationVisualizer" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="$Prompt$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="JarApplication" nameIsGenerated="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/../algs4.jar" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\vijay.kk\Desktop\algorithms\Percolation" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../../Program Files/Java/jdk1.8.0_171/jre" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Percolation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Percolation" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Arguments" />
+      <item itemvalue="Application.PercolationVisualizer" />
+      <item itemvalue="JAR Application.Unnamed" />
+      <item itemvalue="Application.PercolationStats" />
+      <item itemvalue="Application.PercolationStats (1)" />
+      <item itemvalue="Application.PercolationStats (2)" />
+      <item itemvalue="Application.PercolationStats (3)" />
+      <item itemvalue="Application.PercolationStats (4)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PercolationStats (4)" />
+        <item itemvalue="Application.PercolationStats (3)" />
+        <item itemvalue="Application.PercolationStats (2)" />
+        <item itemvalue="Application.PercolationStats" />
+        <item itemvalue="Application.PercolationVisualizer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51f291be-4883-4c07-b927-aa2edb61dfd8" name="Changes" comment="" />
+      <created>1639256719610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639256719610</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Hello__World$PercolationVisualizer.ic" NAME="PercolationVisualizer Coverage Results" MODIFIED="1639262383366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
